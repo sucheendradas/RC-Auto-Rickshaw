@@ -1,3 +1,6 @@
+
+//Control motor speed and servo angle remotely using Blynk sliders on an ESP32, with real-time feedback and MCPWM precision.
+// Perfect for DIY automation projects that blend hardware finesse with app-based interactivity.
 #define BLYNK_TEMPLATE_ID "TMPL33YDLlsfw"
 #define BLYNK_TEMPLATE_NAME "Vu meter"
 #define BLYNK_AUTH_TOKEN "Rl6OCkEJ28EOqISz4VHwPCQLC8f5yuWY"
